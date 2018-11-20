@@ -7,4 +7,4 @@ The Bot can be invoked by a users in a designated Slack Channel by typing @Scrub
 Admins, configured in the configuration file can invoke the command by typing @Scrubby provision a lastpass account for someemail@email.com
 
 
-Scrubby is a California Scrub Jay that steals peanuts from my peanut jar.
+Scrubby is a California Scrub Jay that steals peanuts from a peanut jar at my house.
