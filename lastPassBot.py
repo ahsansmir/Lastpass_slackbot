@@ -2,6 +2,7 @@
 Created on Feb 2, 2018
 @author: Ahsan Mir
 @note: lastpass bot scrubby!
+Released under Creative Commons Attribution-ShareAlike 4.0 International Public License
 '''
 
 import slackclient
