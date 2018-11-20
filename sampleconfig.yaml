@@ -1,0 +1,12 @@
+botid: "<botid>"
+
+slack_token_dev: "<slack_api_token>"
+slack_token_prd: "<slack_api_token>"
+
+
+lastpass:
+    cid: "<cid>"
+    provhash_dev: "<lastpass_api_token>"
+    provhash_prd: "<lastpass_api_token>"
+
+# Rename the file to "config.yaml"
